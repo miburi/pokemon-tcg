@@ -1,0 +1,129 @@
+1,Shuckle,['Grass'],Uncommon
+2,Burmy,['Grass'],Common
+3,Wormadam,['Grass'],Uncommon
+4,Mothim,['Grass'],Rare
+5,Snivy,['Grass'],Common
+6,Servine,['Grass'],Uncommon
+7,Serperior,['Grass'],Rare
+8,Deerling,['Grass'],Common
+9,Moltres,['Fire'],Rare
+10,Fennekin,['Fire'],Common
+11,Fennekin,['Fire'],Common
+12,Braixen,['Fire'],Uncommon
+13,Delphox,['Fire'],Rare Holo
+14,Delphox BREAK,['Fire'],Rare BREAK
+15,Seel,['Water'],Common
+16,Dewgong,['Water'],Uncommon
+17,Omanyte,['Water'],Uncommon
+18,Omastar,['Water'],Rare
+19,Omastar BREAK,['Water'],Rare BREAK
+20,Glaceon-EX,['Water'],Rare Holo EX
+21,White Kyurem,['Water'],Rare Holo
+22,Binacle,['Water'],Common
+23,Barbaracle,['Water'],Rare
+24,Rotom,['Lightning'],Rare
+25,Alakazam-EX,['Psychic'],Rare Holo EX
+26,M Alakazam-EX,['Psychic'],Rare Holo EX
+27,Koffing,['Psychic'],Common
+28,Weezing,['Psychic'],Uncommon
+29,Mew,['Psychic'],Rare Holo
+30,Spoink,['Psychic'],Common
+31,Grumpig,['Psychic'],Rare
+32,Gothita,['Psychic'],Common
+33,Solosis,['Psychic'],Common
+34,Duosion,['Psychic'],Uncommon
+35,Reuniclus,['Psychic'],Rare
+36,Diglett,['Fighting'],Common
+37,Marowak,['Fighting'],Rare
+38,Kabuto,['Fighting'],Uncommon
+39,Kabutops,['Fighting'],Rare
+40,Larvitar,['Fighting'],Common
+41,Larvitar,['Fighting'],Common
+42,Pupitar,['Fighting'],Uncommon
+43,Regirock-EX,['Fighting'],Rare Holo EX
+43,Regirock-EX,['Fighting'],Rare Holo EX
+44,Wormadam,['Fighting'],Uncommon
+45,Riolu,['Fighting'],Common
+46,Riolu,['Fighting'],Common
+47,Lucario,['Fighting'],Rare
+48,Hawlucha,['Fighting'],Uncommon
+49,Carbink,['Fighting'],Rare
+50,Carbink,['Fighting'],Common
+51,Carbink BREAK,['Fighting'],Rare BREAK
+52,Zygarde,['Fighting'],Uncommon
+53,Zygarde,['Fighting'],Rare
+54,Zygarde-EX,['Fighting'],Rare Holo EX
+54,Zygarde-EX,['Fighting'],Rare Holo EX
+55,Umbreon-EX,['Darkness'],Rare Holo EX
+56,Tyranitar,['Darkness'],Rare Holo
+57,Vullaby,['Darkness'],Common
+58,Mandibuzz,['Darkness'],Rare
+59,Wormadam,['Metal'],Uncommon
+60,Bronzor,['Metal'],Common
+61,Bronzong,['Metal'],Rare
+62,Bronzong BREAK,['Metal'],Rare BREAK
+63,Lucario,['Metal'],Rare Holo
+64,Genesect-EX,['Metal'],Rare Holo EX
+65,Jigglypuff,['Fairy'],Common
+66,Wigglytuff,['Fairy'],Uncommon
+67,Mr. Mime,['Fairy'],Rare
+68,Snubbull,['Fairy'],Common
+69,M Altaria-EX,['Fairy'],Rare Holo EX
+70,Cottonee,['Fairy'],Common
+71,Whimsicott,['Fairy'],Uncommon
+72,Diancie-EX,['Fairy'],Rare Holo EX
+73,Kingdra-EX,['Dragon'],Rare Holo EX
+74,Meowth,['Colorless'],Common
+75,Kangaskhan,['Colorless'],Uncommon
+76,Aerodactyl,['Colorless'],Rare
+77,Snorlax,['Colorless'],Rare
+78,Lugia,['Colorless'],Rare
+79,Lugia BREAK,['Colorless'],Rare BREAK
+80,Whismur,['Colorless'],Common
+81,Loudred,['Colorless'],Uncommon
+82,Exploud,['Colorless'],Rare
+83,Altaria-EX,['Colorless'],Rare Holo EX
+84,Audino-EX,['Colorless'],Rare Holo EX
+85,M Audino-EX,['Colorless'],Rare Holo EX
+86,Minccino,['Colorless'],Common
+87,Minccino,['Colorless'],Common
+88,Cinccino,['Colorless'],Uncommon
+89,Cinccino,['Colorless'],Uncommon
+90,Alakazam Spirit Link,None,Uncommon
+91,Altaria Spirit Link,None,Uncommon
+92,Audino Spirit Link,None,Uncommon
+93,Bent Spoon,None,Uncommon
+94,Chaos Tower,None,Uncommon
+95,Devolution Spray,None,Uncommon
+96,Dome Fossil Kabuto,None,Uncommon
+97,Energy Pouch,None,Uncommon
+98,Energy Reset,None,Uncommon
+99,Fairy Drop,None,Uncommon
+100,Fairy Garden,None,Uncommon
+101,Fossil Excavation Kit,None,Uncommon
+102,Helix Fossil Omanyte,None,Uncommon
+103,Lass's Special,None,Uncommon
+104,Mega Catcher,None,Uncommon
+105,N,None,Rare Ultra
+105,N,None,Uncommon
+106,Old Amber Aerodactyl,None,Uncommon
+107,Pokémon Fan Club,None,Uncommon
+108,Power Memory,None,Uncommon
+109,Random Receiver,None,Uncommon
+110,Scorched Earth,None,Uncommon
+111,Shauna,None,Uncommon
+111,Shauna,None,Uncommon
+112,Team Rocket's Handiwork,None,Uncommon
+113,Ultra Ball,None,Uncommon
+114,Double Colorless Energy,None,Uncommon
+115,Strong Energy,None,Uncommon
+116,Glaceon-EX,['Water'],Rare Ultra
+117,Alakazam-EX,['Psychic'],Rare Ultra
+118,M Alakazam-EX,['Psychic'],Rare Ultra
+119,Umbreon-EX,['Darkness'],Rare Ultra
+120,Genesect-EX,['Metal'],Rare Ultra
+121,M Altaria-EX,['Fairy'],Rare Ultra
+122,Kingdra-EX,['Dragon'],Rare Ultra
+123,Altaria-EX,['Colorless'],Rare Ultra
+124,Team Rocket's Handiwork,None,Rare Ultra
+125,Alakazam-EX,['Psychic'],Rare Secret

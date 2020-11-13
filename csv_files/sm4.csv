@@ -1,0 +1,126 @@
+1,Weedle,['Grass'],Common
+2,Kakuna,['Grass'],Uncommon
+3,Beedrill,['Grass'],Rare
+4,Exeggcute,['Grass'],Common
+5,Cacnea,['Grass'],Common
+6,Cacturne,['Grass'],Rare
+7,Karrablast,['Grass'],Common
+8,Shelmet,['Grass'],Common
+9,Accelgor,['Grass'],Uncommon
+10,Skiddo,['Grass'],Common
+11,Gogoat,['Grass'],Rare Holo
+12,Alolan Marowak,['Fire'],Rare Holo
+13,Numel,['Fire'],Common
+14,Camerupt,['Fire'],Rare
+15,Staryu,['Water'],Common
+16,Starmie,['Water'],Rare
+17,Magikarp,['Water'],Common
+18,Gyarados-GX,['Water'],Rare Holo GX
+19,Swinub,['Water'],Common
+20,Piloswine,['Water'],Uncommon
+21,Mamoswine,['Water'],Rare
+22,Remoraid,['Water'],Common
+23,Octillery,['Water'],Rare
+24,Corphish,['Water'],Common
+25,Crawdaunt,['Water'],Rare
+26,Feebas,['Water'],Common
+27,Milotic,['Water'],Rare Holo
+28,Regice,['Water'],Rare Holo
+29,Shellos,['Water'],Common
+30,Pikachu,['Lightning'],Common
+31,Alolan Raichu,['Lightning'],Rare Holo
+32,Alolan Geodude,['Lightning'],Common
+33,Alolan Graveler,['Lightning'],Uncommon
+34,Alolan Golem-GX,['Lightning'],Rare Holo GX
+35,Emolga,['Lightning'],Uncommon
+36,Gastly,['Psychic'],Common
+37,Haunter,['Psychic'],Uncommon
+38,Gengar,['Psychic'],Rare Holo
+39,Misdreavus,['Psychic'],Common
+40,Mismagius,['Psychic'],Rare
+41,Spoink,['Psychic'],Common
+42,Grumpig,['Psychic'],Uncommon
+43,Chimecho,['Psychic'],Common
+44,Pumpkaboo,['Psychic'],Common
+45,Gourgeist,['Psychic'],Rare
+46,Salandit,['Psychic'],Common
+47,Salazzle,['Psychic'],Rare Holo
+48,Oranguru,['Psychic'],Rare
+49,Nihilego-GX,['Psychic'],Rare Holo GX
+50,Mankey,['Fighting'],Common
+51,Primeape,['Fighting'],Rare
+52,Cubone,['Fighting'],Common
+53,Regirock,['Fighting'],Rare
+54,Gastrodon,['Fighting'],Uncommon
+55,Stufful,['Fighting'],Common
+56,Bewear,['Fighting'],Rare Holo
+57,Buzzwole-GX,['Fighting'],Rare Holo GX
+58,Houndour,['Darkness'],Common
+59,Houndoom,['Darkness'],Rare
+60,Deino,['Darkness'],Common
+61,Zweilous,['Darkness'],Uncommon
+62,Hydreigon,['Darkness'],Rare
+63,Guzzlord-GX,['Darkness'],Rare Holo GX
+63,Guzzlord-GX,['Darkness'],Rare Holo GX
+64,Mawile,['Metal'],Uncommon
+65,Aron,['Metal'],Common
+66,Lairon,['Metal'],Uncommon
+67,Aggron,['Metal'],Rare Holo
+68,Registeel,['Metal'],Rare
+69,Escavalier,['Metal'],Rare
+70,Kartana-GX,['Metal'],Rare Holo GX
+71,Jigglypuff,['Fairy'],Common
+72,Wigglytuff,['Fairy'],Rare
+73,Xerneas,['Fairy'],Rare Holo
+74,Alolan Exeggutor-GX,['Dragon'],Rare Holo GX
+75,Jangmo-o,['Dragon'],Common
+76,Hakamo-o,['Dragon'],Uncommon
+77,Kommo-o,['Dragon'],Rare
+78,Miltank,['Colorless'],Uncommon
+79,Swablu,['Colorless'],Common
+80,Altaria,['Colorless'],Rare
+81,Starly,['Colorless'],Common
+82,Staravia,['Colorless'],Uncommon
+83,Staraptor,['Colorless'],Rare
+84,Regigigas,['Colorless'],Rare Holo
+84,Regigigas,['Colorless'],Rare Holo
+85,Minccino,['Colorless'],Common
+86,Cinccino,['Colorless'],Uncommon
+87,Bunnelby,['Colorless'],Common
+88,Diggersby,['Colorless'],Uncommon
+89,Type: Null,['Colorless'],Rare Holo
+90,Silvally-GX,['Colorless'],Rare Holo GX
+91,Counter Catcher,None,Uncommon
+92,Dashing Pouch,None,Uncommon
+93,Devoured Field,None,Uncommon
+94,Fighting Memory,None,Uncommon
+95,Gladion,None,Uncommon
+96,Lusamine,None,Uncommon
+97,Peeking Red Card,None,Uncommon
+98,Psychic Memory,None,Uncommon
+99,Sea of Nothingness,None,Uncommon
+100,Counter Energy,None,Uncommon
+101,Gyarados-GX,['Water'],Rare Ultra
+102,Alolan Golem-GX,['Lightning'],Rare Ultra
+103,Nihilego-GX,['Psychic'],Rare Ultra
+104,Buzzwole-GX,['Fighting'],Rare Ultra
+105,Guzzlord-GX,['Darkness'],Rare Ultra
+106,Kartana-GX,['Metal'],Rare Ultra
+107,Alolan Exeggutor-GX,['Dragon'],Rare Ultra
+108,Silvally-GX,['Colorless'],Rare Ultra
+109,Gladion,None,Rare Ultra
+110,Lusamine,None,Rare Ultra
+111,Olivia,None,Rare Ultra
+112,Gyarados-GX,['Water'],Rare Secret
+113,Alolan Golem-GX,['Lightning'],Rare Secret
+114,Nihilego-GX,['Psychic'],Rare Secret
+115,Buzzwole-GX,['Fighting'],Rare Secret
+116,Guzzlord-GX,['Darkness'],Rare Secret
+117,Kartana-GX,['Metal'],Rare Secret
+118,Alolan Exeggutor-GX,['Dragon'],Rare Secret
+119,Silvally-GX,['Colorless'],Rare Secret
+120,Counter Catcher,None,Rare Secret
+121,Wishful Baton,None,Rare Secret
+122,Counter Energy,None,Rare Secret
+123,Warp Energy,None,Rare Secret
+124,Water Energy,None,Rare Secret

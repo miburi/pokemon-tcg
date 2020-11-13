@@ -1,0 +1,177 @@
+1,Caterpie,['Grass'],Common
+2,Metapod,['Grass'],Uncommon
+3,Butterfree,['Grass'],Rare
+4,Oddish,['Grass'],Common
+5,Gloom,['Grass'],Uncommon
+6,Vileplume,['Grass'],Rare Holo
+7,Tangela,['Grass'],Common
+8,Tangrowth,['Grass'],Rare
+9,Ledyba,['Grass'],Common
+10,Ledian,['Grass'],Rare
+11,Heracross,['Grass'],Rare
+12,Pansage,['Grass'],Common
+13,Simisage,['Grass'],Uncommon
+14,Dewpider,['Grass'],Common
+15,Araquanid,['Grass'],Rare
+16,Wimpod,['Grass'],Common
+17,Golisopod-GX,['Grass'],Rare Holo GX
+18,Charmander,['Fire'],Common
+18,Charmander,['Fire'],Common
+19,Charmeleon,['Fire'],Uncommon
+20,Charizard-GX,['Fire'],Rare Holo GX
+21,Ho-Oh-GX,['Fire'],Rare Holo GX
+22,Pansear,['Fire'],Common
+23,Simisear,['Fire'],Uncommon
+24,Heatmor,['Fire'],Uncommon
+25,Salazzle-GX,['Fire'],Rare Holo GX
+26,Turtonator,['Fire'],Rare
+27,Alolan Vulpix,['Water'],Common
+28,Alolan Ninetales,['Water'],Rare
+29,Horsea,['Water'],Common
+30,Seadra,['Water'],Uncommon
+31,Kingdra,['Water'],Rare Holo
+32,Magikarp,['Water'],Common
+33,Gyarados,['Water'],Rare Holo
+34,Marill,['Water'],Common
+35,Azumarill,['Water'],Rare
+36,Panpour,['Water'],Common
+37,Simipour,['Water'],Uncommon
+38,Bruxish,['Water'],Rare
+39,Tapu Fini-GX,['Water'],Rare Holo GX
+39,Tapu Fini-GX,['Water'],Rare Holo GX
+40,Pikachu,['Lightning'],Common
+41,Raichu,['Lightning'],Rare Holo
+42,Electabuzz,['Lightning'],Uncommon
+43,Electivire,['Lightning'],Rare
+44,Tynamo,['Lightning'],Common
+45,Eelektrik,['Lightning'],Uncommon
+46,Eelektross,['Lightning'],Rare
+47,Togedemaru,['Lightning'],Common
+48,Slowking,['Psychic'],Rare
+49,Wobbuffet,['Psychic'],Uncommon
+50,Seviper,['Psychic'],Uncommon
+51,Duskull,['Psychic'],Common
+52,Dusclops,['Psychic'],Uncommon
+53,Dusknoir,['Psychic'],Rare Holo
+54,Croagunk,['Psychic'],Common
+55,Toxicroak,['Psychic'],Rare
+56,Venipede,['Psychic'],Common
+57,Whirlipede,['Psychic'],Uncommon
+58,Scolipede,['Psychic'],Rare
+59,Espurr,['Psychic'],Common
+60,Meowstic,['Psychic'],Rare
+61,Sandygast,['Psychic'],Common
+62,Palossand,['Psychic'],Rare Holo
+63,Necrozma-GX,['Psychic'],Rare Holo GX
+64,Machamp-GX,['Fighting'],Rare Holo GX
+65,Rhyhorn,['Fighting'],Common
+66,Rhydon,['Fighting'],Uncommon
+67,Rhyperior,['Fighting'],Rare Holo
+68,Lunatone,['Fighting'],Uncommon
+69,Solrock,['Fighting'],Uncommon
+70,Riolu,['Fighting'],Common
+71,Lucario,['Fighting'],Rare Holo
+72,Sawk,['Fighting'],Common
+73,Crabrawler,['Fighting'],Common
+74,Crabominable,['Fighting'],Rare
+75,Lycanroc,['Fighting'],Rare Holo
+76,Lycanroc,['Fighting'],Rare
+77,Mudbray,['Fighting'],Common
+78,Mudsdale,['Fighting'],Rare
+79,Passimian,['Fighting'],Rare
+80,Marshadow-GX,['Fighting'],Rare Holo GX
+81,Alolan Rattata,['Darkness'],Common
+82,Alolan Raticate,['Darkness'],Rare
+83,Alolan Grimer,['Darkness'],Common
+84,Alolan Muk-GX,['Darkness'],Rare Holo GX
+85,Sneasel,['Darkness'],Common
+86,Weavile,['Darkness'],Rare
+87,Darkrai,['Darkness'],Rare Holo
+88,Darkrai-GX,['Darkness'],Rare Holo GX
+88,Darkrai-GX,['Darkness'],Rare Holo GX
+89,Inkay,['Darkness'],Common
+90,Malamar,['Darkness'],Rare
+91,Ralts,['Fairy'],Common
+92,Kirlia,['Fairy'],Uncommon
+92,Kirlia,['Fairy'],Uncommon
+93,Gardevoir-GX,['Fairy'],Rare Holo GX
+94,Diancie,['Fairy'],Rare Holo
+95,Cutiefly,['Fairy'],Common
+96,Ribombee,['Fairy'],Uncommon
+97,Morelull,['Fairy'],Common
+98,Shiinotic,['Fairy'],Rare
+99,Noivern-GX,['Dragon'],Rare Holo GX
+100,Zygarde,['Dragon'],Rare Holo
+101,Meowth,['Colorless'],Common
+102,Persian,['Colorless'],Rare
+103,Porygon,['Colorless'],Common
+104,Porygon2,['Colorless'],Uncommon
+105,Porygon-Z,['Colorless'],Rare Holo
+105,Porygon-Z,['Colorless'],Rare Holo
+106,Hoothoot,['Colorless'],Common
+107,Noctowl,['Colorless'],Uncommon
+108,Bouffalant,['Colorless'],Uncommon
+109,Noibat,['Colorless'],Common
+110,Stufful,['Colorless'],Common
+111,Bewear,['Colorless'],Rare
+112,Acerola,None,Uncommon
+112,Acerola,None,Uncommon
+113,Bodybuilding Dumbbells,None,Uncommon
+114,Escape Rope,None,Uncommon
+115,Guzma,None,Uncommon
+115,Guzma,None,Uncommon
+116,Kiawe,None,Uncommon
+116,Kiawe,None,Uncommon
+117,Lana,None,Uncommon
+118,Mount Lanakila,None,Uncommon
+119,Olivia,None,Uncommon
+120,Plumeria,None,Uncommon
+121,Po Town,None,Uncommon
+122,Rotom Dex—Poké Finder Mode,None,Uncommon
+123,Sophocles,None,Uncommon
+124,Super Scoop Up,None,Uncommon
+125,Tormenting Spray,None,Uncommon
+126,Weakness Policy,None,Uncommon
+127,Wicke,None,Uncommon
+128,Wishful Baton,None,Uncommon
+129,Golisopod-GX,['Grass'],Rare Ultra
+130,Tapu Bulu-GX,['Grass'],Rare Ultra
+131,Ho-Oh-GX,['Fire'],Rare Ultra
+132,Salazzle-GX,['Fire'],Rare Ultra
+133,Tapu Fini-GX,['Water'],Rare Ultra
+134,Necrozma-GX,['Psychic'],Rare Ultra
+135,Machamp-GX,['Fighting'],Rare Ultra
+136,Lycanroc-GX,['Fighting'],Rare Ultra
+137,Marshadow-GX,['Fighting'],Rare Ultra
+138,Alolan Muk-GX,['Darkness'],Rare Ultra
+139,Darkrai-GX,['Darkness'],Rare Ultra
+140,Gardevoir-GX,['Fairy'],Rare Ultra
+141,Noivern-GX,['Dragon'],Rare Ultra
+142,Acerola,None,Rare Ultra
+143,Guzma,None,Rare Ultra
+144,Kiawe,None,Rare Ultra
+145,Plumeria,None,Rare Ultra
+146,Sophocles,None,Rare Ultra
+147,Wicke,None,Rare Ultra
+148,Golisopod-GX,['Grass'],Rare Secret
+149,Tapu Bulu-GX,['Grass'],Rare Secret
+150,Charizard GX,['Fire'],Rare Secret
+151,Salazzle-GX,['Fire'],Rare Secret
+152,Tapu Fini-GX,['Water'],Rare Secret
+153,Necrozma-GX,['Psychic'],Rare Secret
+154,Machamp-GX,['Fighting'],Rare Secret
+155,Lycanroc-GX,['Fighting'],Rare Secret
+156,Marshadow-GX,['Fighting'],Rare Secret
+157,Alolan Muk-GX,['Darkness'],Rare Secret
+158,Darkrai-GX,['Darkness'],Rare Secret
+159,Gardevoir-GX,['Fairy'],Rare Secret
+160,Noivern-GX,['Dragon'],Rare Secret
+161,Bodybuilding Dumbbells,None,Rare Secret
+162,Choice Band,None,Rare Secret
+163,Escape Rope,None,Rare Secret
+164,Multi Switch,None,Rare Secret
+165,Rescue Stretcher,None,Rare Secret
+166,Super Scoop Up,None,Rare Secret
+167,Fire Energy,None,Rare Secret
+168,Darkness Energy,None,Rare Secret
+169,Fairy Energy,None,Rare Secret

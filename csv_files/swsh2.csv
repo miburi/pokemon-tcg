@@ -1,0 +1,192 @@
+1,Caterpie,['Grass'],Common
+2,Metapod,['Grass'],Uncommon
+3,Butterfree,['Grass'],Rare
+4,Scyther,['Grass'],Common
+5,Shuckle,['Grass'],Uncommon
+6,Heracross,['Grass'],Uncommon
+7,Lotad,['Grass'],Common
+8,Lombre,['Grass'],Uncommon
+9,Ludicolo,['Grass'],Rare
+10,Surskit,['Grass'],Common
+11,Masquerain,['Grass'],Uncommon
+12,Snover,['Grass'],Common
+13,Abomasnow,['Grass'],Rare
+14,Phantump,['Grass'],Common
+15,Trevenant,['Grass'],Rare
+16,Grubbin,['Grass'],Common
+17,Rillaboom V,['Grass'],Rare Holo
+18,Rillaboom VMAX,['Grass'],Rare Holo
+19,Eldegoss V,['Grass'],Rare Holo
+20,Applin,['Grass'],Common
+21,Applin,['Grass'],Common
+22,Flapple,['Grass'],Rare Holo
+23,Appletun,['Grass'],Rare Holo
+24,Vulpix,['Fire'],Common
+25,Ninetales,['Fire'],Rare
+26,Ninetales V,['Fire'],Rare Holo
+27,Growlithe,['Fire'],Common
+28,Arcanine,['Fire'],Rare
+29,Magmar,['Fire'],Common
+30,Magmortar,['Fire'],Rare
+31,Litwick,['Fire'],Common
+32,Lampent,['Fire'],Uncommon
+33,Chandelure,['Fire'],Rare Holo
+34,Heatmor,['Fire'],Uncommon
+35,Cinderace V,['Fire'],Rare Holo
+36,Cinderace VMAX,['Fire'],Rare Holo
+37,Galarian Mr. Mime,['Water'],Common
+38,Galarian Mr. Rime,['Water'],Rare
+39,Magikarp,['Water'],Common
+40,Gyarados,['Water'],Rare Holo
+41,Wingull,['Water'],Common
+42,Pelipper,['Water'],Uncommon
+43,Milotic V,['Water'],Rare Holo
+44,Tympole,['Water'],Common
+45,Palpitoad,['Water'],Uncommon
+46,Seismitoad,['Water'],Rare
+47,Galarian Darumaka,['Water'],Common
+48,Galarian Darmanitan,['Water'],Rare
+49,Inteleon V,['Water'],Rare Holo
+50,Inteleon VMAX,['Water'],Rare Holo
+51,Cramorant,['Water'],Rare
+52,Arrokuda,['Water'],Common
+53,Barraskewda,['Water'],Rare
+54,Eiscue,['Water'],Rare Holo
+55,Eiscue V,['Water'],Rare Holo
+56,Voltorb,['Lightning'],Common
+57,Electrode,['Lightning'],Uncommon
+58,Electabuzz,['Lightning'],Common
+59,Electivire,['Lightning'],Rare
+60,Shinx,['Lightning'],Common
+61,Luxio,['Lightning'],Uncommon
+62,Luxray,['Lightning'],Rare Holo
+63,Helioptile,['Lightning'],Common
+64,Heliolisk,['Lightning'],Uncommon
+65,Charjabug,['Lightning'],Uncommon
+66,Vikavolt,['Lightning'],Rare Holo
+67,Boltund V,['Lightning'],Rare Holo
+68,Toxel,['Lightning'],Common
+69,Toxtricity,['Lightning'],Rare
+70,Toxtricity V,['Lightning'],Rare Holo
+71,Toxtricity VMAX,['Lightning'],Rare Holo
+72,Pincurchin V,['Lightning'],Rare Holo
+73,Morpeko,['Lightning'],Uncommon
+74,Clefairy,['Psychic'],Common
+75,Clefable,['Psychic'],Rare Holo
+76,Natu,['Psychic'],Common
+77,Xatu,['Psychic'],Uncommon
+78,Galarian Corsola,['Psychic'],Common
+79,Galarian Cursola,['Psychic'],Rare Holo
+80,Sigilyph,['Psychic'],Rare
+81,Sandygast,['Psychic'],Common
+82,Palossand,['Psychic'],Uncommon
+83,Hatenna,['Psychic'],Common
+84,Hattrem,['Psychic'],Uncommon
+85,Hatterene,['Psychic'],Rare Holo
+86,Milcery,['Psychic'],Common
+87,Alcremie,['Psychic'],Rare
+88,Indeedee,['Psychic'],Uncommon
+89,Dreepy,['Psychic'],Common
+90,Drakloak,['Psychic'],Uncommon
+91,Dragapult,['Psychic'],Rare Holo
+92,Dragapult V,['Psychic'],Rare Holo
+93,Dragapult VMAX,['Psychic'],Rare Holo
+94,Galarian Farfetch'd,['Fighting'],Common
+95,Galarian Sirfetch'd,['Fighting'],Rare Holo
+96,Nosepass,['Fighting'],Common
+97,Meditite,['Fighting'],Common
+98,Medicham,['Fighting'],Uncommon
+99,Barboach,['Fighting'],Common
+100,Whiscash,['Fighting'],Rare
+101,Galarian Yamask,['Fighting'],Common
+102,Galarian Runerigus,['Fighting'],Rare
+103,Binacle,['Fighting'],Common
+104,Barbaracle,['Fighting'],Rare
+105,Rolycoly,['Fighting'],Common
+106,Carkol,['Fighting'],Uncommon
+107,Coalossal,['Fighting'],Rare Holo
+108,Sandaconda V,['Fighting'],Rare Holo
+109,Falinks,['Fighting'],Uncommon
+110,Falinks V,['Fighting'],Rare Holo
+111,Stonjourner,['Fighting'],Rare Holo
+112,Koffing,['Darkness'],Common
+113,Galarian Weezing,['Darkness'],Rare Holo
+114,Stunky,['Darkness'],Common
+115,Skuntank,['Darkness'],Uncommon
+116,Spiritomb,['Darkness'],Rare
+117,Trubbish,['Darkness'],Common
+118,Garbodor,['Darkness'],Rare
+119,Vullaby,['Darkness'],Common
+120,Mandibuzz,['Darkness'],Rare
+121,Malamar V,['Darkness'],Rare Holo
+122,Malamar VMAX,['Darkness'],Rare Holo
+123,Impidimp,['Darkness'],Common
+124,Morgrem,['Darkness'],Uncommon
+125,Grimmsnarl,['Darkness'],Rare Holo
+126,Galarian Meowth,['Metal'],Common
+127,Galarian Perrserker,['Metal'],Rare
+128,Scizor,['Metal'],Rare
+129,Bronzor,['Metal'],Common
+130,Bronzong,['Metal'],Uncommon
+131,Probopass,['Metal'],Rare
+132,Durant,['Metal'],Uncommon
+133,Honedge,['Metal'],Common
+134,Doublade,['Metal'],Uncommon
+135,Aegislash,['Metal'],Rare
+136,Copperajah V,['Metal'],Rare Holo
+137,Copperajah VMAX,['Metal'],Rare Holo
+138,Duraludon,['Metal'],Rare Holo
+139,Zacian,['Metal'],Rare
+140,Zamazenta,['Metal'],Rare
+141,Snorlax,['Colorless'],Rare
+142,Chatot,['Colorless'],Uncommon
+143,Pidove,['Colorless'],Common
+144,Tranquill,['Colorless'],Uncommon
+145,Unfezant,['Colorless'],Rare
+146,Bunnelby,['Colorless'],Common
+147,Diggersby,['Colorless'],Rare
+148,Hawlucha,['Colorless'],Uncommon
+149,Stufful,['Colorless'],Common
+150,Bewear,['Colorless'],Uncommon
+151,Skwovet,['Colorless'],Common
+152,Greedent,['Colorless'],Rare
+153,Dubwool V,['Colorless'],Rare Holo
+154,Boss's Orders (Giovanni),None,Rare Holo
+155,Burning Scarf,None,Uncommon
+156,Capacious Bucket,None,Uncommon
+157,Cursed Shovel,None,Uncommon
+158,Dan,None,Uncommon
+159,Full Heal,None,Uncommon
+160,Galar Mine,None,Uncommon
+161,Milo,None,Uncommon
+162,Nugget,None,Uncommon
+163,Oleana,None,Uncommon
+164,Poké Ball,None,Uncommon
+165,Scoop Up Net,None,Uncommon
+166,Skyla,None,Uncommon
+167,Sonia,None,Uncommon
+168,Tool Scrapper,None,Uncommon
+169,Training Court,None,Uncommon
+170,Turffield Stadium,None,Uncommon
+171,Capture Energy,None,Uncommon
+172,Horror Psychic Energy,None,Uncommon
+173,Speed Lightning Energy,None,Uncommon
+174,Twin Energy,None,Uncommon
+175,Rillaboom V,['Grass'],Rare Ultra
+176,Eldegoss V,['Grass'],Rare Ultra
+177,Ninetales V,['Fire'],Rare Ultra
+178,Cinderace V,['Fire'],Rare Ultra
+179,Milotic V,['Water'],Rare Ultra
+180,Inteleon V,['Water'],Rare Ultra
+181,Boltund V,['Lightning'],Rare Ultra
+182,Toxtricity V,['Lightning'],Rare Ultra
+183,Dragapult V,['Psychic'],Rare Ultra
+184,Sandaconda V,['Fighting'],Rare Ultra
+185,Falinks V,['Fighting'],Rare Ultra
+186,Malamar V,['Darkness'],Rare Ultra
+187,Copperajah V,['Metal'],Rare Ultra
+188,Dubwool V,['Colorless'],Rare Ultra
+189,Boss's Orders (Giovanni),None,Rare Ultra
+190,Milo,None,Rare Ultra
+191,Oleana,None,Rare Ultra
+192,Sonia,None,Rare Ultra
