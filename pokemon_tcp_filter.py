@@ -12,6 +12,8 @@ from datetime import *
 import re
 import mysql.connector
 
+
+
 def help_menu():
     helpStr="""Supported Pokemon TCG Series 
 ----------------------------
@@ -107,14 +109,68 @@ def pokemon_cards_list(s):
                 f.close()
 
             #sortedPokemonCards=sorted(rarePokemonCards, key=lambda e: e["number"])
+
+
+
             elif sortVal=='q':
                 break
             else:
                 print("Invalid input..")
 
+     
+    #for card in rarePokemonCards:
+    #    print(card['name'], card['id'], card['rarity'])
+    #sortedPokemonCards=sorted(rarePokemonCards, key=lambda e: e["number"])
+
+    #for card in sortedPokemonCards:
+    #    print(card['name'], card['id'], card['number'],card['rarity'])
+
+    #print(rarePokemonCards['id']) 
+    #print("Rare pokemon cards", rarePokemonCards, rarePokemonCount)
+    
+    #print("Trainer cards", trainerCards, trainerCardCount)
+    #print("Normal card count", normalCardCount)
+    #print("All Pokemons",pokemonCards) 
+
+f=open("/home/ec2-user/.my.cnf","r")
+
+lines=f.readlines()
+username, password="",""
+for line in lines:
+    line=line.split()
+    if line[0]=="user":
+        username=line[2]
+    elif line[0]=="password":
+        password=line[2]
+f.close()
+
+############# SECTION FOR UPDATING SETS ##############################
+mydb=mysql.connector.connect( host="localhost", user=username, password=password, database="pokemontcg")
+mycursor=mydb.cursor()
+sets=Set.all()    
+for i in sets:
+    #Checks if set exists, if so it tries to update or else inserts new statement 
+    sql="select * from sets where code='"+i.code+"'"
+    mycursor.execute(sql)
+    rows = mycursor.fetchall()
+    if len(rows)!= 1:
+        print("Inserting set ", i.code, i.release_date, i.name, i.series, i.total_cards)
+        #Insert statement for new sets 
+        sql="INSERT INTO sets (code, ptcgo_code, release_date, name, series, total_cards, standard_legal, updated_at, symbol_url, logo_url) values(%s, %s, STR_TO_DATE(%s, '%m/%d/%Y'), %s, %s, %s, %s, STR_TO_DATE(%s,'%m/%d/%Y %H:%i:%S'), %s, %s)"
+        val=(i.code, i.ptcgo_code, i.release_date, i.name, i.series, i.total_cards, i.standard_legal, i.updated_at, i.symbol_url, i.logo_url)
+        mycursor.execute(sql, val)
+        mydb.commit()
+    else:
+        #print("Found set, attempt to update values..")
+        sql="UPDATE sets SET code=%s, ptcgo_code=%s, release_date=STR_TO_DATE(%s, '%m/%d/%Y'), name=%s, series=%s, total_cards=%s, standard_legal=%s, updated_at=STR_TO_DATE(%s, '%m/%d/%Y %H:%i:%S'), symbol_url=%s, logo_url=%s where code="+"'"+i.code+"'"
+        val=(i.code, i.ptcgo_code, i.release_date, i.name, i.series, i.total_cards, i.standard_legal, i.updated_at, i.symbol_url, i.logo_url)
+        mycursor.execute(sql, val)
+        mydb.commit()
+######################################################################################################
+
 print("###########################################################")
 print("Miburi Pokemon Trading Card Game Collections App..")
-print("Alpha Version 1.0")
+print("Alpha Version 1.1")
 print("Youtube/Instagram Channel: Miburi Official")
 print("https://github.com/miburi/pokemon-tcg")
 print("###########################################################")
@@ -132,6 +188,25 @@ while True:
     except ValueError as e:
         print("Invalid input, try again..",e)
     
+sys.exit(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#setDeck=Set.find('base1')
+#print(setDeck.code, setDeck.name, setDeck.series, setDeck.total_cards, setDeck.release_date, setDeck.updated_at,setDeck.symbol_url)
 rarePokemonCount=0
 for card in cards:
     print(card.id, card.name, card.rarity)
@@ -174,6 +249,11 @@ for card in sortedPokemonCards:
     f.write(str(card['number'])+","+card['name']+","+str(card['types'])+","+str(card['rarity']))
     f.write("\n")
 f.close()
+
+
+
+
+
 
 ############################################################
 ###### Finding set information ###### 
